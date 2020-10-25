@@ -139,7 +139,7 @@ class AddressBook {
 
 
     /**
-     * @ORM\Column(type="string")
+     * @ORM\Column(type="string", nullable=true)
      */
     protected $picture;
 

@@ -7,7 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="966b0efa-0a5d-47ce-9c35-2007e6ee1461" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/DataFixtures/AddressBookFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/DataFixtures/AddressBookFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/AddressBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/AddressBook.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <workItem from="1603480243173" duration="39031000" />
       <workItem from="1603567474926" duration="16269000" />
       <workItem from="1603631432186" duration="4076000" />
-      <workItem from="1603637179701" duration="547000" />
+      <workItem from="1603637179701" duration="2544000" />
     </task>
     <servers />
   </component>
