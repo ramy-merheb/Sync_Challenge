@@ -26,7 +26,7 @@ class AddressBookFixture implements FixtureInterface
             $customer->setCity($faker->city);
             $customer->setCountry("LEB");
             $customer->setPhoneNumber($faker->phoneNumber);
-            $customer->setBirthday(new \DateTime( "2012-02-02" ));
+            $customer->setBirthday("2012-02-02" );
             $customer->setEmailAddress($faker->email);
             $customer->setPicture($faker->imageUrl());
 
